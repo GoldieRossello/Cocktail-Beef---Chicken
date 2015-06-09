@@ -23,8 +23,8 @@ width: 30%;
 
 button
 {
-    float: left;
     margin-left: 15%;
+    margin-right: 15%;
     margin-top: 2%;
 }
 
@@ -38,4 +38,11 @@ button
     background-color: #46e73c;
     color: white;
     border-color: white;
+}
+
+img{
+margin-left: 15%;
+float: left;
+width: 500px;
+height: 450px;
 }
