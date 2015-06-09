@@ -15,11 +15,37 @@ and open the template in the editor.
     margin-top: 1%;
 }
 
-p{
-    color: #00CC00;
-    /*font-style: italic;
-    font-family: Times New Roman ;*/
-    margin-top: 3%;
+
+.btn-group{
     margin-left: 15%;
-    
+    margin-bottom: 1%;
+}
+
+.btn-carte{
+    margin-left: 5%;
+}
+
+.btn-default{
+    background-color: #46e73c;
+    border-color: #ecf1ec;
+}
+
+.btn:hover{
+    background-color: #46e73c;
+    border-color: white;
+}
+
+.nodeco{
+    color: #ecf1ec;
+    text-decoration: none;
+}
+
+.nodeco:hover {
+    color: white;
+    text-decoration: none;
+}
+
+
+.image-carte{
+    margin-left: 5%;
 }
