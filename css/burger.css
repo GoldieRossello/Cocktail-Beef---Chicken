@@ -8,11 +8,12 @@ and open the template in the editor.
     Author     : grossello
 */
 
-.col-md-3{
+.col-md-3 {
     width: 8%;
     float: left;
     margin-left: 15%;
     margin-top: 1%;
+    border-color:  #46e73c;
 }
 
 
@@ -47,5 +48,9 @@ and open the template in the editor.
 
 
 .image-carte{
-    margin-left: 5%;
+    margin-left: 2%;
+}
+
+.thumbnail{
+    border-color: #46e73c;
 }
