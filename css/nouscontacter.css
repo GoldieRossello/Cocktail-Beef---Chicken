@@ -19,3 +19,23 @@ margin-right: 15%;
 float: right;
 width: 30%;
 }
+
+
+button
+{
+    float: left;
+    margin-left: 15%;
+    margin-top: 2%;
+}
+
+.btn-default{
+    color:  #ecf1ec;
+    background-color: #46e73c;
+    border-color: #ecf1ec;
+}
+
+.btn:hover{
+    background-color: #46e73c;
+    color: white;
+    border-color: white;
+}
