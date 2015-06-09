@@ -1,0 +1,10 @@
+#indication {
+    float: right;
+    clear: both;
+     color: white;
+}
+body
+{
+    background-color: black; /* Le fond de la page sera blanc */
+    color: green; /* Le texte de la page sera vert */
+}
