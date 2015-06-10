@@ -20,29 +20,22 @@ float: right;
 width: 30%;
 }
 
-
-button
+.jumbotron
 {
-    margin-left: 15%;
-    margin-right: 15%;
-    margin-top: 2%;
-}
-
-.btn-default{
-    color:  #ecf1ec;
-    background-color: #46e73c;
-    border-color: #ecf1ec;
-}
-
-.btn:hover{
     background-color: #46e73c;
     color: white;
-    border-color: white;
+    margin-top: 2%;
+    float: left;
+    margin-left: 8.5%;
+    margin-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 0.5%;
+    padding-top: 0.5%;
 }
 
 img{
 margin-left: 15%;
 float: left;
-width: 500px;
 height: 450px;
+width: 38%;
 }
