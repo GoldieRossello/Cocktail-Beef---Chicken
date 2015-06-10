@@ -1,0 +1,44 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 10 juin 2015, 10:36:34
+    Author     : glebagousse
+*/
+
+
+.btn-group{
+    margin-left: 15%;
+    margin-bottom: 1%;
+}
+
+.btn-carte{
+    margin-left: 5%;
+}
+
+.btn-default{
+    background-color: #46e73c;
+    border-color: #ecf1ec;
+}
+
+.btn:hover{
+    background-color: #46e73c;
+    border-color: white;
+}
+
+.nodeco{
+    color: #ecf1ec;
+    text-decoration: none;
+}
+
+.nodeco:hover {
+    color: white;
+    text-decoration: none;
+}
+.btn-group{
+    color: green;
+    
+    
+}
