@@ -8,8 +8,26 @@ and open the template in the editor.
     Author     : grossello
 */
 
+
+
 iframe{
 margin-right: 15%;
 float: right;
 width: 30%;
+}
+
+
+img{
+margin-left: 15%;
+float: left;
+width: 500px;
+height: 450px;
+}
+
+.jumbotron
+{
+    float : left;
+    margin-top: 2%;
+    margin-left: 10%;
+    width: 20%;
 }
