@@ -19,7 +19,11 @@ and open the template in the editor.
 
 .btn-group{
     margin-left: 15%;
-    margin-bottom: 1%;
+    margin-bottom: 2%;
+}
+
+.btn-lg, .btn-group-lg > .btn{
+    padding: 8px 12px;
 }
 
 .btn-carte{
@@ -36,9 +40,13 @@ and open the template in the editor.
     border-color: white;
 }
 
+
+
 .nodeco{
     color: #ecf1ec;
     text-decoration: none;
+    font-size: 15px;
+    padding: 8px 12px;
 }
 
 .nodeco:hover {
@@ -46,11 +54,18 @@ and open the template in the editor.
     text-decoration: none;
 }
 
-
 .image-carte{
-    margin-left: 1.5%;
+    margin-left: 4.5%;
 }
 
 .thumbnail{
     border-color: #46e73c;
 }
+
+.boisson{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 2%;
+    width: 70%;
+}
+
