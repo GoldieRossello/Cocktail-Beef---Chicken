@@ -42,3 +42,127 @@ and open the template in the editor.
     
     
 }
+.row{
+    margin-left: 15%;
+}
+
+.input-group-addon{
+    
+    background-color: #46e73c;
+    border-color: #ecf1ec;
+    border-radius: 10px;
+}
+
+.commande-left{
+    
+    float:left;
+    width: 35%;
+    margin-left: 15%;
+   background: url(../Images/milk-shake.jpg);
+   
+    color:black;
+   height: 369px;
+}
+p{
+    color: black;
+    
+    
+}
+
+
+.commande-left-2{
+    float:left;
+    width: 35%;
+    margin-left: 15%;
+     background:blue;
+    color: white;
+    
+}
+
+.commande-left-3{
+    float:left;
+    width: 70%;
+    margin-left: 15%;
+     background: green;
+    color: white;
+    
+}
+
+.commande-left-4{
+    float:left;
+    width: 35%;
+    margin-left: 15%;
+    background: blue;
+    color: white;
+    
+}
+
+.commande-right{
+    
+    float:right;
+    width: 35%;
+    margin-right: 15%;
+     background: ;
+    color: white;
+
+}
+.commande-right-2{
+    
+     float:right;
+    width: 35%;
+    margin-right: 15%;
+     background: yellow;
+    color: white;
+}
+
+.commande-right-3{
+    
+     float:right;
+    width: 35%;
+    margin-right: 15%;
+     background: yellow;
+    color: white;
+}
+
+
+p {
+margin-left: 1%;
+
+}
+
+h1{
+    
+   text-align: center;
+}
+
+.poulet1{
+    float: left;
+    width: 20%
+}
+
+.poulet2{
+    float: left;
+     width: 20%;
+     
+     
+}
+
+.poulet3{
+   float: left;
+   width: 20%;
+    
+}
+
+.poulet4{
+    float: left;
+    width: 20%;
+   
+}
+
+
+
+
+.lol{
+   margin-left: 9%; 
+}
+
