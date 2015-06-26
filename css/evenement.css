@@ -9,16 +9,89 @@ and open the template in the editor.
 */
 
 #anniv{
-margin-left: 15%;
-float: left;
-width: 18%;
-clear: right;
-margin-bottom: 2%;
+    border-radius: 20%;
+    margin-left: 15%;
+    padding-top: 0%;
+    float: left;
+    width: 25%;
+    clear: right;
+    margin-bottom: 2%;
 }
 #mariage{
+    border-radius: 10%;
     margin-right: 15%;
-    padding-right: 9.5%;
+    padding-right: 0%;
+    margin-top: 0.5%;
     float: right;
-    width: 25%;
+    width: 30%;
     clear: left;
+}
+.jumbotron{
+    background-color: #46e73c;
+    color: white;
+    font-weight: bold;
+    margin-top: 0.5%;
+    margin-left: 40%;
+    margin-right: 9%;
+    margin-bottom: 5%;
+    padding-top: 1%;
+    padding-bottom: 2%;
+    font-size: 150%;
+    
+    
+}
+.jumbotron p{
+    margin-bottom: 0%;
+    padding-bottom: 3%;
+    font-size: 90%;
+}
+
+p{
+    
+    
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.panel{
+    background-color: #46e73c;
+    color: white;
+    font-weight: bold;
+    margin-top: 1%;
+    margin-left: 9.5%;
+    margin-right: 50%;
+    margin-bottom: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 5%;
+    font-size: 150%;
+    border-radius: 10%;
+}
+.panel p{
+    font-weight: normal;
+    font-size: 90%;
+    margin-bottom: 0%;
+    padding-bottom: 1.5%;
+}
+#traiteur{
+    border-radius: 20%;
+    margin-left: 15%;
+    padding-top: 0%;
+    float: left;
+    width: 25%;
+    height: 270px;
+    clear: right;
+    margin-bottom: 2%;
+}
+.page-header h1{
+    background-color: #46e73c;
+    color:  white;
+    font-weight: bold;
+    font-size: 100%;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    border-radius: 100%;
+    
+    
 }
