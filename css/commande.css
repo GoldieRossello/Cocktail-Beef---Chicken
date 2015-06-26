@@ -1,0 +1,225 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 10 juin 2015, 10:36:34
+    Author     : glebagousse
+*/
+
+
+.btn-group{
+    margin-left: 15%;
+    margin-bottom: 1%;
+}
+
+.btn-carte{
+    margin-left: 5%;
+}
+
+.btn-default{
+    background-color: #46e73c;
+    border-color: #ecf1ec;
+}
+
+.btn:hover{
+    background-color: #46e73c;
+    border-color: white;
+}
+
+.nodeco{
+    color: #ecf1ec;
+    text-decoration: none;
+}
+
+.nodeco:hover {
+    color: white;
+    text-decoration: none;
+}
+.btn-group{
+    color: green;
+    
+    
+}
+.row{
+    margin-left: 15%;
+}
+
+.input-group-addon{
+    
+    background-color: #46e73c;
+    border-color: #ecf1ec;
+    border-radius: 10px;
+}
+
+.commande-left{
+    
+    float:left;
+    width: 35%;
+    margin-left: 15%;
+   background: url(../Images/milk-shake.jpg);
+   margin-bottom: 1.2%;
+    color:whitesmoke;
+   height: 369px;
+}
+p{
+    color: black;
+     font-weight:bold;
+    
+}
+
+
+.commande-left-2{
+    float:left;
+    width: 35%;
+    margin-left: 15%;
+     background: url(../Images/lol.34.png);
+    color: whitesmoke;
+    
+}
+
+.commande-left-3{
+    float:left;
+    width: 76%;
+    margin-left: 9%;
+     background:url(../Images/lol30.png);
+    color:whitesmoke;
+    
+}
+
+.commande-left-4{
+    float:left;
+    width: 35%;
+    margin-left: 15%;
+     background: url(../Images/lol33.png);
+    color: whitesmoke;
+    
+}
+
+.commande-left-5{
+    float:left;
+    width: 76%;
+    margin-left: 9%;
+    
+     background: url(../Images/lol57.png);
+    color:whitesmoke;
+    
+}
+
+
+
+.commande-left-6{
+    float:left;
+    width: 76%;
+    margin-left: 9%;
+    
+     background: url(../Images/logomenu.png);
+    color:whitesmoke;
+    
+}
+
+.commande-right{
+    
+    float:right;
+    width: 35%;
+    margin-right: 15%;
+    background:url(../Images/lol59.png);
+    color: whitesmoke;
+
+}
+.commande-right-2{
+    
+     float:right;
+    width: 35%;
+    margin-right: 15%;
+    background:url(../Images/lol28.png);
+    color: whitesmoke;
+}
+
+.commande-right-3{
+    
+     float:right;
+    width: 35%;
+    margin-right: 15%;
+    background: url(../Images/lol32.png);
+    color: whitesmoke;
+}
+
+
+p {
+margin-left: 1%;
+
+}
+
+h1{
+ 
+   text-align: center;
+}
+h3{
+    color:  black
+}
+.poulet1{
+    float: left;
+    width: 20%
+}
+
+.poulet2{
+    float: left;
+     width: 20%;
+     
+     
+}
+
+.poulet3{
+   float: left;
+   width: 20%;
+    
+}
+
+.poulet4{
+    float: left;
+    width: 20%;
+   
+}
+
+
+
+
+.lol{
+   margin-left: 9%; 
+}
+
+.textchicken{
+    
+   margin-left: 11% 
+}
+.texthot{
+    
+    margin-left: 40%;
+}
+
+.textmenu{
+    
+   margin-left: 25% 
+}
+
+
+.jumbotron{
+    background-color: #46e73c;
+    border-color: #ecf1ec;
+    font-size: small;
+    padding-bottom: 0%;
+    padding-top:0%;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    margin-left: 9%;
+    border-radius: 20%;
+  
+    
+}
+.jumbotron h1{
+    font-size: 250%;
+    
+
+}
