@@ -24,14 +24,14 @@ width: 30%;
 {
     background-color: #46e73c;
     color: white;
-    margin-top: 2%;
     float: left;
-    margin-left: 8.5%;
-    margin-right: 0px;
-    padding-left: 0px;
-    padding-bottom: 0.5%;
-    padding-top: 0.5%;
-}
+    margin-top: 2%;
+    margin-bottom: 1px;
+    padding: 1px;
+    clear: both;
+    margin-left: 8%;
+   
+ }
 
 img{
 margin-left: 15%;
