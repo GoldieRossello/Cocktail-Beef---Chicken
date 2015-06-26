@@ -59,13 +59,13 @@ and open the template in the editor.
     width: 35%;
     margin-left: 15%;
    background: url(../Images/milk-shake.jpg);
-   
-    color:black;
+   margin-bottom: 1.2%;
+    color:whitesmoke;
    height: 369px;
 }
 p{
     color: black;
-    
+     font-weight:bold;
     
 }
 
@@ -74,17 +74,17 @@ p{
     float:left;
     width: 35%;
     margin-left: 15%;
-     background:blue;
-    color: white;
+     background: url(../Images/lol.34.png);
+    color: whitesmoke;
     
 }
 
 .commande-left-3{
     float:left;
-    width: 70%;
-    margin-left: 15%;
-     background: green;
-    color: white;
+    width: 76%;
+    margin-left: 9%;
+     background:url(../Images/lol30.png);
+    color:whitesmoke;
     
 }
 
@@ -92,8 +92,30 @@ p{
     float:left;
     width: 35%;
     margin-left: 15%;
-    background: blue;
-    color: white;
+     background: url(../Images/lol33.png);
+    color: whitesmoke;
+    
+}
+
+.commande-left-5{
+    float:left;
+    width: 76%;
+    margin-left: 9%;
+    
+     background: url(../Images/lol57.png);
+    color:whitesmoke;
+    
+}
+
+
+
+.commande-left-6{
+    float:left;
+    width: 76%;
+    margin-left: 9%;
+    
+     background: url(../Images/logomenu.png);
+    color:whitesmoke;
     
 }
 
@@ -102,8 +124,8 @@ p{
     float:right;
     width: 35%;
     margin-right: 15%;
-     background: ;
-    color: white;
+    background:url(../Images/lol59.png);
+    color: whitesmoke;
 
 }
 .commande-right-2{
@@ -111,8 +133,8 @@ p{
      float:right;
     width: 35%;
     margin-right: 15%;
-     background: yellow;
-    color: white;
+    background:url(../Images/lol28.png);
+    color: whitesmoke;
 }
 
 .commande-right-3{
@@ -120,8 +142,8 @@ p{
      float:right;
     width: 35%;
     margin-right: 15%;
-     background: yellow;
-    color: white;
+    background: url(../Images/lol32.png);
+    color: whitesmoke;
 }
 
 
@@ -131,10 +153,12 @@ margin-left: 1%;
 }
 
 h1{
-    
+ 
    text-align: center;
 }
-
+h3{
+    color:  black
+}
 .poulet1{
     float: left;
     width: 20%
@@ -166,3 +190,36 @@ h1{
    margin-left: 9%; 
 }
 
+.textchicken{
+    
+   margin-left: 11% 
+}
+.texthot{
+    
+    margin-left: 40%;
+}
+
+.textmenu{
+    
+   margin-left: 25% 
+}
+
+
+.jumbotron{
+    background-color: #46e73c;
+    border-color: #ecf1ec;
+    font-size: small;
+    padding-bottom: 0%;
+    padding-top:0%;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    margin-left: 9%;
+    border-radius: 20%;
+  
+    
+}
+.jumbotron h1{
+    font-size: 250%;
+    
+
+}
