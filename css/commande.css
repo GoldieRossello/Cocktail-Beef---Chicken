@@ -59,13 +59,13 @@ and open the template in the editor.
     width: 35%;
     margin-left: 15%;
    background: url(../Images/milk-shake.jpg);
-   margin-bottom: 1.2%;
+   margin-bottom: 1px;
     color:whitesmoke;
-   height: 369px;
+   height: 386px;
 }
 p{
     color: black;
-    font-weight: bold;
+
     
 }
 
@@ -74,17 +74,21 @@ p{
     float:left;
     width: 35%;
     margin-left: 15%;
-     background: url(../Images/lol.34.png);
+     background: url(../Images/lol.34.png) ;
     color: whitesmoke;
-    
+     height: 406px;
+      margin-bottom: 1px;
 }
 
 .commande-left-3{
+    
+    margin-right: 15%;
     float:left;
-    width: 76%;
-    margin-left: 9%;
+    width: 945px;
+    margin-left: 15%;
      background:url(../Images/lol30.png);
     color:whitesmoke;
+     margin-bottom: 1px;
     
 }
 
@@ -94,16 +98,19 @@ p{
     margin-left: 15%;
      background: url(../Images/lol33.png);
     color: whitesmoke;
+    height: 356px;
+     margin-bottom: 1px;
     
 }
 
 .commande-left-5{
     float:left;
-    width: 76%;
-    margin-left: 9%;
-    
-     background: url(../Images/lol57.png);
+    width: 945px;
+    margin-left: 15%;
+    margin-right: 15%;
+    background: url(../Images/lol57.png);
     color:whitesmoke;
+     margin-bottom: 1px;
     
 }
 
@@ -111,12 +118,12 @@ p{
 
 .commande-left-6{
     float:left;
-    width: 76%;
-    margin-left: 9%;
-    
+    width: 945px;
+    margin-left: 15%;
+    margin-right: 15%;
      background: url(../Images/logomenu.png);
     color:whitesmoke;
-    
+     width: 945px;
 }
 
 .commande-right{
@@ -126,7 +133,8 @@ p{
     margin-right: 15%;
     background:url(../Images/lol59.png);
     color: whitesmoke;
-
+    margin-bottom: 1px;
+    
 }
 .commande-right-2{
     
@@ -135,6 +143,7 @@ p{
     margin-right: 15%;
     background:url(../Images/lol28.png);
     color: whitesmoke;
+     margin-bottom: 1px;
 }
 
 .commande-right-3{
@@ -144,6 +153,7 @@ p{
     margin-right: 15%;
     background: url(../Images/lol32.png);
     color: whitesmoke;
+     margin-bottom: 1px;
 }
 
 
