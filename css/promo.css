@@ -1,0 +1,107 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 26 juin 2015, 17:59:11
+    Author     : brodrigue
+*/
+
+
+.page-header{
+    background-color: #46e73c;
+    color:  white;
+    font-weight: bold;
+    font-size: 100%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 5%;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    
+   
+}
+#promotion1{
+    border-radius: 8%;
+    float: left;
+    margin-left: 16%;
+    margin-right: 16%;
+     background-color: #46e73c;
+   }
+   #promotion2{
+       border-radius: 8%;
+        float: left;
+    margin-left: 16%;
+    margin-right: 16%;
+     background-color: #46e73c;
+   }
+   #promotion3{
+       border-radius: 8%;
+        float: left;
+    margin-left: 16%;
+    margin-right: 16%;
+     background-color: #46e73c;
+   }
+#salade2{
+    margin-top: 1%;
+    border-radius: 8%;
+   width: 42.5%;
+   float: left;
+}
+
+#salade{
+    margin-top: 1%;
+    border-radius: 8%;
+    float: left;
+    margin-left: 7.5%;
+    width: 50%;
+}
+h1{
+    float: left;
+    margin-top: 0%;
+    margin-left: 15%;
+}
+#promotion1 p{
+       margin-left: 20%;
+    
+}
+#promotion2 p{
+       margin-left: 25%;
+    
+}
+#promotion3 p{
+    margin-left: 28%;
+}
+#promotion1 h2{
+    margin-left: 30%;
+    margin-top: 30%;
+}
+#promotion2 h2{
+    margin-left: 30%;
+    margin-top: 38%;
+}
+#promotion3 h2{
+    margin-left: 30%;
+    margin-top: 2%;
+}
+#hamburger{
+     margin-top: 1%;
+    border-radius: 8%;
+    float: left;
+    width: 45%;
+   
+}
+
+#hamburger3{
+    margin-top: 1%;
+    border-radius: 8%;
+    float: right;
+    width: 45%;
+}
+
+#boisson{
+    margin-top: 1%;
+     border-radius: 8%;
+     width: 100%;
+}
