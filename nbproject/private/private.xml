@@ -2,9 +2,13 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+<<<<<<< HEAD
         <group>
             <file>file:/C:/Users/glebagousse/Documents/CBC/css/commande.css</file>
             <file>file:/C:/Users/glebagousse/Documents/CBC/Pages/commande.html</file>
         </group>
+=======
+        <group/>
+>>>>>>> f03fe896d9b328ec9f41e89693b4aa8e5839b9d4
     </open-files>
 </project-private>

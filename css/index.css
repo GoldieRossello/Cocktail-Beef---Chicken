@@ -17,3 +17,16 @@ and open the template in the editor.
     width: 20%;
     background-color: #46e73c;
 }
+
+
+.index{
+    color: #ecf1ec;
+    text-decoration: underline;
+    font-size: 15px;
+    text-align: center;
+}
+
+.index:hover{
+    color: white;
+    text-decoration: underline;
+}
