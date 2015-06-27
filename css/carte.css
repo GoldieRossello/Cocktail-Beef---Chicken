@@ -22,12 +22,21 @@ and open the template in the editor.
     margin-bottom: 2%;
 }
 
+.btn-group-lg{
+    margin-left: 43%;
+    margin-bottom: 2%;
+}
+
 .btn-lg, .btn-group-lg > .btn{
     padding: 8px 12px;
 }
 
 .btn-carte{
     margin-left: 4%;
+}
+
+.bnt-carte1{
+    margin-left: 15%;
 }
 
 .btn-default{
