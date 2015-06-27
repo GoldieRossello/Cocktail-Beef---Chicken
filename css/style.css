@@ -104,22 +104,47 @@ footer{
     margin-top: 2%;
 }
 
-.glyphicon-arrow-right{
+.glyphicon-copyright-mark{
     margin-left: 1%;
     margin-right: 1%;
-    
     color: white;
 }
 .social{
     
-    width: 2%;
+    width: 20px;
+    float: right;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
 }
 
 .social1{
     width: 2%;
+    float: right;
 }
 
 .folow{
     color: white;
     display: inline;
+    margin-right: 2%;
+    font-weight: normal;
+    margin-left: 0px;
+}
+
+
+body{
+    background-image: url(../Images/fond-site.png);
+    background-repeat: repeat;
+    background-attachment:fixed;
+    background-color:#ecf1ec;
+    background-position: left top;}
+
+.foota{
+    color: #ecf1ec;
+    text-decoration: underline;
+}
+
+.foota:hover {
+    color:white;
+    text-decoration: underline;
+    
 }
